@@ -1,0 +1,124 @@
+Assessment Tasks for "Apply Break and Continue Keywords" Topic
+Task 1: Print Numbers until a Specific Condition is Met (Break Keyword)
+Problem:
+Write a program that prints numbers from 1 to 10. If the number is greater than 5, the loop should terminate using the break statement.
+
+Example:
+
+Input:
+
+text
+Copy code
+None
+Output:
+
+text
+Copy code
+1
+2
+3
+4
+5
+Explanation:
+The program uses a break statement to exit the loop once the number is greater than 5.
+
+Task 2: Skip Even Numbers (Continue Keyword)
+Problem:
+Write a program that prints all numbers from 1 to 10, but skips printing even numbers using the continue keyword.
+
+Example:
+
+Input:
+
+text
+Copy code
+None
+Output:
+
+text
+Copy code
+1
+3
+5
+7
+9
+Explanation:
+The program uses a continue statement to skip over even numbers while printing only the odd numbers.
+
+Task 3: Find First Odd Number Greater than a Given Value (Break Keyword)
+Problem:
+Write a program that iterates over numbers from 1 to 20 and breaks the loop when the first odd number greater than 15 is found.
+
+Example:
+
+Input:
+
+text
+Copy code
+None
+Output:
+
+text
+Copy code
+17
+Explanation:
+The program uses a break statement to exit the loop when the first odd number greater than 15 is found.
+
+Task 4: Skip Specific Number (Continue Keyword)
+Problem:
+Write a program that prints numbers from 1 to 10, but skips the number 7 using the continue keyword.
+
+Example:
+
+Input:
+
+text
+Copy code
+None
+Output:
+
+text
+Copy code
+1
+2
+3
+4
+5
+6
+8
+9
+10
+Explanation:
+The program uses a continue statement to skip printing the number 7.
+
+Task 5: Print Numbers and Skip Multiples of 3 (Continue Keyword)
+Problem:
+Write a program that prints numbers from 1 to 20 but skips printing multiples of 3 using the continue keyword.
+
+Example:
+
+Input:
+
+text
+Copy code
+None
+Output:
+
+text
+Copy code
+1
+2
+4
+5
+7
+8
+10
+11
+13
+14
+16
+17
+19
+20
+Explanation:
+The program uses a continue statement to skip printing numbers that are multiples of 3.
